@@ -6,6 +6,10 @@ gradle-wrapper.jar
 /gradlew.bat
 /local.properties
 /.idea
-Builds
+Builds/Android/.idea
+Builds/Android/.gradle
+Builds/Android/lib/.cxx
+Builds/Android/lib/build
+Builds/iOS/build
 .cxx
 build
